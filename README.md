@@ -35,7 +35,7 @@ node tree.mjs --ignore node_modules,.git
 tree.mjs --path C:\Users\hc\Documents\Projects\Adevto --ignore dist,test,node_modules,.git --level 3
 
 📄 Salida de ejemplo
-
+```
 ├── index.js
 ├── package.json
 ├── src
@@ -43,3 +43,4 @@ tree.mjs --path C:\Users\hc\Documents\Projects\Adevto --ignore dist,test,node_mo
 │   └── routes
 │       └── user.js
 └── README.md
+```
